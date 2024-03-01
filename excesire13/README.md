@@ -1,2 +1,0 @@
-# ansible-exercises
-ansible-exercises
